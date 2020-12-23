@@ -1,0 +1,17 @@
+{
+  "name": "node_api_practice",
+  "version": "1.0.0",
+  "description": "Academind Node Course | API Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Sid Arcidiacono",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^15.4.0",
+    "nodemon": "^2.0.6"
+  }
+}
